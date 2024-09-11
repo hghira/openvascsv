@@ -8,11 +8,12 @@ OpenVAS es una herramienta muy potente para analizar las vulnerabilidades de una
 
 Este proyecto fue elaborado con el propósito de facilitar la obtención de los resultados y poder integrarlos a otras plataformas.
 
-### Dato de Configuracion
+### Dato de Configuración
 
 crear un archivo .env el cual debe contener
 
 USERNAME=Usuario_Openvas
+
 PASSWORD=Password_Openvas
 
 ![OpenVas WEB](OpenVas.png)
