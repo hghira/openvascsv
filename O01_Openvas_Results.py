@@ -14,8 +14,6 @@ import math
 import io
 from dotenv import load_dotenv
 
-# Cargar las variables del archivo .env
-load_dotenv()
 
 # Cargar las variables del archivo .env
 load_dotenv()
